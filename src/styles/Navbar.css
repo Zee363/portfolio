@@ -1,0 +1,21 @@
+.navbar-container {
+    background-color:  rgb(2, 2, 20);
+}
+
+.navbar-container li {
+   margin-left: 100px;
+}
+
+.navbar-container li a {
+   text-decoration: none;
+   color: #fff;
+}
+
+.navbar-container li a:hover {
+   color: #5c086d;
+}
+
+.navbar-container li a.active {
+   color: #5c086d;
+   font-weight: bold;
+}
