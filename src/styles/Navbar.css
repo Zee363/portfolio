@@ -12,10 +12,10 @@
 }
 
 .navbar-container li a:hover {
-   color: #5c086d;
+   color: #2f3add;
 }
 
 .navbar-container li a.active {
-   color: #5c086d;
+   color: #2f3add;
    font-weight: bold;
 }

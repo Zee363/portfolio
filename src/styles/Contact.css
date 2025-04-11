@@ -1,0 +1,37 @@
+.contact-container {
+    background-color: rgb(2, 2, 20);
+    padding: 2rem 0;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.contact-container h2 {
+    text-align: center;
+    text-emphasis: bold;
+    font-size: 2.2rem;
+    margin-top: 20px;
+}
+
+.contact-container p {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-top: 20px;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.socials a {
+    margin-right: 40px;
+  }
+
+  .socials .bi-linkedin {
+    margin-left: 60px;
+  }
+
+  footer {
+  margin-left: -10px !important;
+  }

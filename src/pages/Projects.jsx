@@ -31,7 +31,7 @@ const Projects = () => {
         <h5 className="card-title text-white">Blog</h5>
         <hr className="text-white"/>
         <p className="card-text text-white">I developed a blog platform as part of a project that introduced key concepts in databases, backend development, and middleware integration. This experience provided hands-on exposure to building full-stack applications, including data modeling, server-side logic, and the flow of data between the frontend and backend.</p> <br />
-        <h6 className="text-white">React | SQL | Node.js | Express.js</h6>
+        <h6 className="text-white">React | MySQL | Node.js | Express.js</h6>
       </div>
       <div className="card-footer">
       <button className="project-button"><Link to="https://haut-aesthetics20-zee363s-projects.vercel.app/" target="-blank" rel="noopener noreferrer">View Project</Link></button>
